@@ -1,22 +1,35 @@
-# Welcome to Our Organization!
+# Welcome to Chesapeake Computing!
 
-## About Us
+We're trying to understand how small teams best team with agents, creating small
+by _mighty_ teams that ship fast!
 
-Chesapeake Computing helps you ship software faster with smaller teams. Small
-but _mighty_!
+The software development landscape fundamentally shifted in the end of 2025.
+with frontier models feeling much more "autonomous". Individual contributors are
+seeing huge gains in productivity with claude code & other tools. It's clear the
+ground is shifting and new workflows are emerging. What will these workflows
+look like for teams?
 
-We are working on the _denoise_ ecosystem, a curated set of tools for teams to
-ship software in collaboration with agents. In general, our team works on
-problems in distributed systems, generative AI, and computer vision.
+In 2026, we are working on the **denoise** ecosystem — a curated set of tools
+for small but _mighty_ teams to ship software in collaboration with agents. Our
+flagship project, `dn`, brings structured, plan-driven workflows as a CLI or
+subagent to harness you already use, like Cursor & opencode.
 
-## Getting Involved
+We're focused on:
 
-Here's how you can get involved:
+- **Human-machine teaming** that amplifies developer velocity without
+  sacrificing code quality
+- **Plan files as first-class artifacts** - versioned, reviewable, and
+  collaboratively editable
+- **Model-agnostic tooling** that works with your existing agentic workflow
+- **Open Source** - team should focus their walletshare on _tokens_ not change
+  management
 
-- Submit an issue or pull request
+## Want to get involved?
+
+Submit an issue, open a PR, or reach out — we're just getting started.
 
 ## Contact
 
-- Website: [your-website.com](https://your-website.com)
-- Email: contact@your-organization.com
-- Twitter: [@YourOrg](https://twitter.com/YourOrg)
+- Website: [chesapeake.dev](https://chesapeake.dev)
+- Email: @chesapeake.dev
+- X: [@chesapeakeco](https://x.com/chesapeakeco)
