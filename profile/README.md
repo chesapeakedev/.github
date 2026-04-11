@@ -10,15 +10,15 @@ ground is shifting and new workflows are emerging. What will these workflows
 look like for teams?
 
 In 2026, we are working on the **denoise** ecosystem — a curated set of tools
-for small but _mighty_ teams to ship software in collaboration with agents. Our
-flagship project, `dn`, brings structured, plan-driven workflows as a CLI or
-subagent to harness you already use, like Cursor & opencode.
+to ship software in collaboration with agents. Our first projects, denoise web & 
+`dn`, focus on executing structured workflows using context shared by humans and
+agents.
 
 We're focused on:
 
 - **Human-machine teaming** that amplifies developer velocity without
   sacrificing code quality
-- **Plan files as first-class artifacts** - versioned, reviewable, and
+- **Filesystem Context First** - versioned, reviewable, and
   collaboratively editable
 - **Model-agnostic tooling** that works with your existing agentic workflow
 - **Open Source** - team should focus their walletshare on _tokens_ not change
